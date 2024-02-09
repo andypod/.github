@@ -13,5 +13,5 @@ The tugh is my main project/website that I work on all the time!
 (Website preformance as of 2/8/24)
 The Tugh is an unbl0kd game website with TONS of sites and the official hosting of TughCraft, my other main project. It also officially hosts the UltraPrx Project (https://ultraprx.vercel.app) along with tons of unbl0kd sites and games!
 ## Unbl0krs I've found and made
-### UltraPrx: https://ultraprx.vercel.app
-### Citrix Workspace (BANNED): https://chrome.google.com/webstore/detail/citrix-workspace/haiffjcadagjlijoggckpgfnoeiflnem 
+### Made: UltraPrx: https://ultraprx.vercel.app
+### Found: Citrix Workspace (Bl0kd): https://chrome.google.com/webstore/detail/citrix-workspace/haiffjcadagjlijoggckpgfnoeiflnem 
